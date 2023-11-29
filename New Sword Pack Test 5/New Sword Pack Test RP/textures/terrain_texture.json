@@ -1,0 +1,11 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "New Sword Pack Test",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"newswordpackralsei_jade_ore": {
+			"textures": "textures/blocks/pixil-frame-0 65"
+		}
+	}
+}

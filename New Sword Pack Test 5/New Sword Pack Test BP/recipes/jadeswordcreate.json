@@ -1,0 +1,25 @@
+{
+	"format_version": "",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "newswordpackralsei:jadeswordcreate"
+		},
+		"tags": "crafting_table",
+		"pattern": [
+			" J ",
+			" J ",
+			" S "
+		],
+		"key": {
+			"J": {
+				"item": "newswordpackralsei:jade"
+			},
+			"S": {
+				"item": "minecraft:stick"
+			}
+		},
+		"result": {
+			"item": "newswordpackralsei:jade_sword"
+		}
+	}
+}

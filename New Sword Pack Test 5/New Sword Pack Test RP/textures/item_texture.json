@@ -1,0 +1,12 @@
+{
+	"resource_pack_name": "New Sword Pack Test",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"newswordpackralsei_jade_sword": {
+			"textures": "textures/items/pixil-frame-0 61"
+		},
+		"newswordpackralsei_jade": {
+			"textures": "textures/items/pixil-frame-0 64"
+		}
+	}
+}

@@ -1,0 +1,5 @@
+pack.name=New Sword Pack Test RP
+pack.description=
+item.newswordpackralsei:jade_sword=Jade Sword
+item.newswordpackralsei:jade=Jade Gem
+tile.newswordpackralsei:jade_ore.name=Jade Ore

@@ -1,0 +1,14 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "newswordpackralsei:jade",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "newswordpackralsei_jade"
+			}
+		}
+	}
+}
